@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=imagine1337)
 <hr>
 <p align="middle"><img align="middle" src="https://imagine1337.github.io/akcat.gif"/></p>
 <h1 align="middle">hello :o)</h1>
